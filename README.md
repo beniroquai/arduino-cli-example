@@ -1,4 +1,4 @@
-# Arduino on GitHub Actions
+# Arduino on GitHub Actions (TEST)
 
 [![Actions Status](https://github.com/arduino/arduino-cli-example/workflows/test/badge.svg)](https://github.com/arduino/arduino-cli-example/actions)
 
